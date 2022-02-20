@@ -1,0 +1,28 @@
+div{
+   /* background-color: lightgreen;*/
+}
+
+*{
+
+    box-sizing: border-box ;
+}
+section{
+    clear: left;
+    background-color: aquamarine;
+    border: 1px solid red;
+}
+
+p{
+    width: 50%;
+   /* border: 1px solid black;*/
+    float: left;
+    padding:10px;
+}
+
+#p1{
+  /*  background-color: darkgoldenrod;*/
+}
+
+#p2{
+   /* background-color: crimson;*/
+}
